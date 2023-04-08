@@ -9,6 +9,11 @@ the human brain is better at recognizing and remembering images than text.
 ## Flow Chart
 <img src="https://user-images.githubusercontent.com/103891145/230719038-f9ede656-d032-4064-a669-02f8110f6f0b.png">
 
+## Future Scope
+- **Virtual reality:** As virtual reality (VR) technology continues to develop, graphical passwords could be adapted to work in immersive VR environments, providing a unique and secure way to authenticate users.
+- **Machine learning:** Machine learning algorithms could be used to help users create more secure graphical passwords, by analyzing their preferences and past usage patterns.
+- **Multi-factor authentication:** Graphical passwords could be used as part of a multi-factor authentication system, along with other methods such as SMS codes or hardware tokens, to provide an extra layer of security.
+
 ## Team members
 - [Varun Agarwal](https://github.com/1010varun)
 - [Garvit Agarwal](https://github.com/Garvit414)
