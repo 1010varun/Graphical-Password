@@ -7,7 +7,7 @@ to remember and more difficult for someone to shoulder surf and steal the passwo
 the human brain is better at recognizing and remembering images than text.
 
 ## Flow Chart
-<img src="https://user-images.githubusercontent.com/103891145/230719038-f9ede656-d032-4064-a669-02f8110f6f0b.png">
+<img src="https://user-images.githubusercontent.com/103891145/230719888-0a5aabef-055b-45ca-8ab0-e091be0415ce.png">
 
 ## Future Scope
 - **Virtual reality:** As virtual reality (VR) technology continues to develop, graphical passwords could be adapted to work in immersive VR environments, providing a unique and secure way to authenticate users.
